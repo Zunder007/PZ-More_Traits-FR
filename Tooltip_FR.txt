@@ -1,0 +1,18 @@
+Tooltip_FR = {
+    Tooltip_MoreTraits_AntiqueAxe = "Une hache rare en pierre durcie.<br>Très puissante et durable, mais impossible à réparer.",
+    Tooltip_MoreTraits_Thumper = "Un maillet rare en pierre.<br>Capable d'abattre des foules entières d'un seul coup.<br>Incroyablement puissant, mais aussi extrémement lourd!",
+    Tooltip_MoreTraits_ObsidianBlade = "Une dague sacrificielle rare et antique.<br>Très puissante, mais cassante.",
+    Tooltip_MoreTraits_PackerBag = "Un sac rare.<br>Il a une grande capacité et une importante réduction de poids.",
+    Tooltip_MoreTraits_BloodyCrowbar = "Ce pied de biche a été forgé et raffiné afin d'être plus maniable et de faire plus de dégâts.",
+    Tooltip_MoreTraits_Slugger = "Une batte de baseball en aluminium rare et signée.<br>Pèse moins, oscille plus vite, et est plus durable qu'une batte de baseball standard.",
+    Tooltip_MoreTraits_Cure = "Une concoction puissante capable d'inverser le processus de zombification.<br>Ne peut être concocté que par des chercheurs en médecine très talentueux.",
+    Tooltip_MoreTraits_AntiqueMag1 = "Un magazine en édition limitée.<br>Cette exemplaire enseigne l'art tabou de convertir les cadavres humains en fertilisant.",
+    Tooltip_MoreTraits_AntiqueMag2 = "Un magazine en édition limitée.<br>Cette exemplaire plonge dans les recettes d'artisanat maison avec du papier mâché.",
+    Tooltip_MoreTraits_AntiqueMag3 = "Un magazine en édition limitée.<br>Cette exemplaire propose des commentaires sur les recettes cannibales de certaines tribus de Papouasie-Nouvelle-Guinée.",
+    Tooltip_MoreTraits_PapierMacheSword = "Du plaisir pour toute la famille!<br>Déconseillé aux enfants de moins de quatre ans.",
+    Tooltip_MoreTraits_ItemBoost = "Les statistiques de cet objet sont améliorées par l'un de vos traits.",
+    Tooltip_MoreTraits_GordaniteBoost = "Pied de biche+",
+    Tooltip_MoreTraits_GordaniteDefault = "Pied de biche",
+
+    Tooltip_MoreTraits_BloodyItemBoost = "Ce pied-de-biche a été façonné et affiné pour se balancer plus rapidement, infliger plus de dégâts et être pleinement efficace d'une seule main.<br>Les statistiques de cet objet sont améliorées par l'une de vos capacités.",
+}
