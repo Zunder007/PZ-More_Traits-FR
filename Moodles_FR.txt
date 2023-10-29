@@ -1,0 +1,18 @@
+Moodles_FR = {
+    Moodles_MTAlcoholism_Good_lvl1 = "Satisfait",
+    Moodles_MTAlcoholism_Good_desc_lvl1 = "Vous avez étanché votre soif d'alcool.",
+    Moodles_MTAlcoholism_Good_lvl2 = "Repu",
+    Moodles_MTAlcoholism_Good_desc_lvl2 = "Vous vous sentez repu.",
+    Moodles_MTAlcoholism_Good_lvl3 = "Gâté",
+    Moodles_MTAlcoholism_Good_desc_lvl3 = "Vous vous sentez vraiment bien !",
+    Moodles_MTAlcoholism_Good_lvl4 = "Engorgé",
+    Moodles_MTAlcoholism_Good_desc_lvl4 = "Vous n'aurez pas besoin de picoler avant un moment !",
+    Moodles_MTAlcoholism_Bad_lvl1 = "Nostalgique",
+    Moodles_MTAlcoholism_Bad_desc_lvl1 = "Ça fait longtemps que vous n'avez pas bu un coup.<br>Pas d'effet négatif.",
+    Moodles_MTAlcoholism_Bad_lvl2 = "Ça démange",
+    Moodles_MTAlcoholism_Bad_desc_lvl2 = "Le besoin d'alcool devient difficile à ignorer.<br>Vous êtes plus irritable.",
+    Moodles_MTAlcoholism_Bad_lvl3 = "En manque",
+    Moodles_MTAlcoholism_Bad_desc_lvl3 = "Juste une gorgée...<br>Augmente votre stress.",
+    Moodles_MTAlcoholism_Bad_lvl4 = "Sevrage",
+    Moodles_MTAlcoholism_Bad_desc_lvl4 = "Je ferais n'importe quoi pour boire !<br>Vous deviendrez de plus en plus malade chaque jour jusqu'à étancher votre soif.",
+}
